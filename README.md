@@ -125,7 +125,7 @@
   </style>
 </head>
 <body>
-  <h2>WingSpan - 複数の得点計算</h2>
+  <h2>WingSpan - 得点計算</h2>
 
   <div id="controls">
     <button id="reset-button" onclick="resetScores()">リセット</button>
